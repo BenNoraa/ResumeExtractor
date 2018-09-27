@@ -1,0 +1,7 @@
+nltk==3.3
+pdf2text==1.0.0
+pdfminer==20140328
+pdfminer.six==20170720
+pycryptodome==3.6.6
+pyth==0.6.0
+six==1.11.0

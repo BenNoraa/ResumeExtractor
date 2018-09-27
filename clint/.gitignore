@@ -33,5 +33,5 @@ nosetests.xml
 
 *.DS_Store
 *.dylib
-.idea/
+.idea/*
 docs/_*
